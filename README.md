@@ -16,7 +16,7 @@ A **serverless event announcement platform** built entirely on AWS services and 
 ---
 
 ## Architecture
-![architecture](screenshots/lambda_logs.png)
+![architecture](https://github.com/Naveen15github/Event-Announcement-System-using-AWS-Lambda-API-Gateway-CloudFront-and-SNS/blob/0e22e2771e9e1ba2d9fddd38425a97812495a286/Gemini_Generated_Image_5u28nz5u28nz5u28.png)
 
 
 All components are **fully automated with Terraform**, making deployments consistent and reproducible.
@@ -25,18 +25,18 @@ All components are **fully automated with Terraform**, making deployments consis
 ## Proof of Work
 
 ### Screenshots 
-![](screenshots/homepage.png)
-![](screenshots/homepage.png)
-![](screenshots/homepage.png)
-![](screenshots/homepage.png) 
-![](screenshots/sns_email.png)
-![](screenshots/sns_email.png)
-![](screenshots/create_event.png)
-![](screenshots/lambda_logs.png)
-![](screenshots/lambda_logs.png)
-![](screenshots/lambda_logs.png)
-![](screenshots/lambda_logs.png)
-![](screenshots/lambda_logs.png)
+![](https://github.com/Naveen15github/Event-Announcement-System-using-AWS-Lambda-API-Gateway-CloudFront-and-SNS/blob/e0dbee79b67d174b55b0eb74f71183c5abd14a48/Screenshot%20(301).png)
+![](https://github.com/Naveen15github/Event-Announcement-System-using-AWS-Lambda-API-Gateway-CloudFront-and-SNS/blob/e0dbee79b67d174b55b0eb74f71183c5abd14a48/Screenshot%20(300).png)
+![](https://github.com/Naveen15github/Event-Announcement-System-using-AWS-Lambda-API-Gateway-CloudFront-and-SNS/blob/e0dbee79b67d174b55b0eb74f71183c5abd14a48/Screenshot%20(299).png)
+![](https://github.com/Naveen15github/Event-Announcement-System-using-AWS-Lambda-API-Gateway-CloudFront-and-SNS/blob/e0dbee79b67d174b55b0eb74f71183c5abd14a48/Screenshot%20(298).png) 
+![](https://github.com/Naveen15github/Event-Announcement-System-using-AWS-Lambda-API-Gateway-CloudFront-and-SNS/blob/e0dbee79b67d174b55b0eb74f71183c5abd14a48/Screenshot%20(297).png)
+![](https://github.com/Naveen15github/Event-Announcement-System-using-AWS-Lambda-API-Gateway-CloudFront-and-SNS/blob/e0dbee79b67d174b55b0eb74f71183c5abd14a48/Screenshot%20(296).png)
+![](https://github.com/Naveen15github/Event-Announcement-System-using-AWS-Lambda-API-Gateway-CloudFront-and-SNS/blob/e0dbee79b67d174b55b0eb74f71183c5abd14a48/Screenshot%20(290).png)
+![](https://github.com/Naveen15github/Event-Announcement-System-using-AWS-Lambda-API-Gateway-CloudFront-and-SNS/blob/e0dbee79b67d174b55b0eb74f71183c5abd14a48/Screenshot%20(289).png)
+![](https://github.com/Naveen15github/Event-Announcement-System-using-AWS-Lambda-API-Gateway-CloudFront-and-SNS/blob/e0dbee79b67d174b55b0eb74f71183c5abd14a48/Screenshot%20(288).png)
+![](https://github.com/Naveen15github/Event-Announcement-System-using-AWS-Lambda-API-Gateway-CloudFront-and-SNS/blob/e0dbee79b67d174b55b0eb74f71183c5abd14a48/Screenshot%20(287).png)
+![](https://github.com/Naveen15github/Event-Announcement-System-using-AWS-Lambda-API-Gateway-CloudFront-and-SNS/blob/e0dbee79b67d174b55b0eb74f71183c5abd14a48/Screenshot%20(286).png)
+![](https://github.com/Naveen15github/Event-Announcement-System-using-AWS-Lambda-API-Gateway-CloudFront-and-SNS/blob/e0dbee79b67d174b55b0eb74f71183c5abd14a48/Screenshot%20(285).png)
 
 
 ## Components
