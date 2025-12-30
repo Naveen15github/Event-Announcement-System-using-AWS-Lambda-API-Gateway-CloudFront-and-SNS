@@ -25,19 +25,19 @@ All components are **fully automated with Terraform**, making deployments consis
 ## Proof of Work
 
 ### Screenshots 
-![Events Homepage](screenshots/homepage.png)
-![Events Homepage](screenshots/homepage.png)
-![Events Homepage](screenshots/homepage.png)
-![Events Homepage](screenshots/homepage.png) 
-![SNS Email Notification](screenshots/sns_email.png)
-![SNS Email Notification](screenshots/sns_email.png)
-![Create Event Form](screenshots/create_event.png)
+![](screenshots/homepage.png)
+![](screenshots/homepage.png)
+![](screenshots/homepage.png)
+![](screenshots/homepage.png) 
+![](screenshots/sns_email.png)
+![](screenshots/sns_email.png)
+![](screenshots/create_event.png)
 ![](screenshots/lambda_logs.png)
 ![](screenshots/lambda_logs.png)
 ![](screenshots/lambda_logs.png)
 ![](screenshots/lambda_logs.png)
 ![](screenshots/lambda_logs.png)
-![](screenshots/lambda_logs.png)
+
 
 ## Components
 
