@@ -16,7 +16,7 @@ A **serverless event announcement platform** built entirely on AWS services and 
 ---
 
 ## Architecture
-![](screenshots/lambda_logs.png)
+![architecture](screenshots/lambda_logs.png)
 
 
 All components are **fully automated with Terraform**, making deployments consistent and reproducible.
@@ -24,26 +24,18 @@ All components are **fully automated with Terraform**, making deployments consis
 ---
 ## Proof of Work
 
-### Screenshots
-Homepage displaying events:  
+### Screenshots 
 ![Events Homepage](screenshots/homepage.png)
 ![Events Homepage](screenshots/homepage.png)
 ![Events Homepage](screenshots/homepage.png)
-![Events Homepage](screenshots/homepage.png)
-
-Subscription confirmation email:  
+![Events Homepage](screenshots/homepage.png) 
 ![SNS Email Notification](screenshots/sns_email.png)
-
-Create Event form:  
+![SNS Email Notification](screenshots/sns_email.png)
 ![Create Event Form](screenshots/create_event.png)
-
-AWS Console Services Verification:  
 ![](screenshots/lambda_logs.png)
 ![](screenshots/lambda_logs.png)
 ![](screenshots/lambda_logs.png)
 ![](screenshots/lambda_logs.png)
-
-### Terraform Deployment Outputs
 ![](screenshots/lambda_logs.png)
 ![](screenshots/lambda_logs.png)
 
